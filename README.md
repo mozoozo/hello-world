@@ -73,6 +73,7 @@
 .div{
 	float: left;
 	margin-right: 1000px;
+	text-align: center;
 }
 
 
